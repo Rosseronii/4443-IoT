@@ -22,13 +22,14 @@ I forgot to take a picture of what part 1 looked like, so for now here is the di
 
 ---
 
-## Progress Log
+## Part 2: Powering two LEDs (and Blinking LED with potentiometer)
 
-**2025-08-05**  
-Started initial design. Set up folders and placeholder files.
+This is like part 1 except now there are two of them. As both LEDs need to be grounded, the ground cables going from the resistors now all connect up to the same ground line, with one ground cable connected to the ground connector on the Arduino. We also now put the potentiometer into play, connecting it to the breadboard. This new device, combined with code, will allow us to chanmge how fast or slow the LEDs blink.
 
-**2025-08-07**  
-Connected core components. Working on UI logic.
+Here is a picture of what this looked like whenever it was completed.
+
+<img src="part1.png" width="300" />
+
 
 ---
 
