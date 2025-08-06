@@ -40,3 +40,20 @@ Using an RGB LED is very similar to using a single color LED, however now there 
 Here is a picture of what this looked like whenever it was completed.
 
 <img src="part3.jpg" width="300" />
+
+
+---
+
+## Reflection Questions
+
+    What happens if you reduce the delay to 10ms?
+      -Reducing the delay will make the LEDs blink faster.
+      
+    Why do we use resistors with LEDs?
+      -To only allow a certain amount of voltage through, otherwise it could damage the LED.
+      
+    What challenges would arise using an RGB LED as a signal light?
+      - More complex to implement vs standard Red/Green/Blue LEDs, more pins, could be confusing with different shades of colors
+      
+    How would you add a pushbutton to toggle blinking on/off?
+      - A true/false state that is switched true or false each time the button is pressed.
