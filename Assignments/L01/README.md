@@ -18,7 +18,7 @@ In this lab, I connected the resistor to the rail that had the negative side. Up
 
 I forgot to take a picture of what part 1 looked like, so for now here is the diagram of what it is supposed to look like.
 
-<img src="Assignments/part1.png" width="300" />
+<img src="part1.png" width="300" />
 
 ---
 
