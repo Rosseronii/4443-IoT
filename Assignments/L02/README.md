@@ -13,6 +13,6 @@ This time I used a smaller breadboard, with the RFID sensor connected directly t
 
 Below is it in action. Watch as it goes
 
-<img src="NFCGIZMO.gif" width="300" />
+<img src="NFCGIZMO.gif" width="500" />
 
 ---
