@@ -13,6 +13,6 @@ The implementation on the breadboard appears complex and crazy, but this was mai
 
 Below is the breadboard implementation.
 
-<img src="sonic2.jpg" width="400" />
+<img src="sonic1.jpg" width="400" />
 
 ---
