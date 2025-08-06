@@ -16,3 +16,10 @@ Below is the breadboard implementation.
 <img src="sonic.jpg" width="400" />
 
 ---
+
+## Soldering to PCB
+
+Next we began to solder each component to a PCB.
+
+
+---
