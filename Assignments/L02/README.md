@@ -1,4 +1,4 @@
-# Lab 2: LED Fundamentals
+# Lab 2: RFID Sensor Gizmo
 
 ---
 
