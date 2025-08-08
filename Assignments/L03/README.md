@@ -21,5 +21,5 @@ Below is the breadboard implementation.
 
 Next we began to solder each component to a PCB.
 
-
+<img src="sonic3.jpg" width="400" />
 ---
