@@ -13,13 +13,17 @@ It was a learning experience, however it may have been too ambitious of a projec
 
 The first steps taken for this project were downloading and printing the 3D files for each part. This included the main shell, the wings, the legs, and all the internal parts that were supposed to make it swivel and open its arms.
 
-<img src="[https://content.instructables.com/FEQ/JJEQ/JRGONKJ3/FEQJJEQJRGONKJ3.jpg" width="400" />
+Below is the 3D render of some of the parts needed.
+
+<img src="https://content.instructables.com/FEQ/JJEQ/JRGONKJ3/FEQJJEQJRGONKJ3.jpg" width="400" />
 
 ---
 
-## Soldering to PCB
+## Next Steps
 
-Next we began to solder each component to a PCB.
+After all the parts were printed off, the device was temporarily pieced together to make sure everything fits. Internal parts such as the Arduino Nano and MP3 module were tested to verify that they fit in their internal holder that was also 3D printed.
 
+
+<img src="https://content.instructables.com/FEQ/JJEQ/JRGONKJ3/FEQJJEQJRGONKJ3.jpg" width="400" />
 
 ---
