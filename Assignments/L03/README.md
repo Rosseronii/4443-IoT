@@ -23,3 +23,9 @@ Next we began to solder each component to a PCB.
 
 <img src="sonic3.jpg" width="400" />
 ---
+
+Here is a video of how it works, I was not able to record it on the new one at the time, however it did work the exact same way.
+
+
+https://github.com/user-attachments/assets/1676dfee-8663-4a30-b674-226516e90769
+
